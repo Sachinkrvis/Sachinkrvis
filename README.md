@@ -22,6 +22,6 @@
 ![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachinkrvis&show_icons=true&theme=tokyonight)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinkrvis&layout=compact&theme=tokyonight)  
 
-## 📈 Activity Tracker  
+<---## 📈 Activity Tracker  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sachinkrvis&theme=tokyonight)](https://git.io/streak-stats)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sachinkrvis)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sachinkrvis)](https://git.io/streak-stats)--->
