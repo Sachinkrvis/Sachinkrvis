@@ -24,3 +24,4 @@
 
 ## 📈 Activity Tracker  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sachinkrvis&theme=tokyonight)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sachinkrvis)](https://git.io/streak-stats)
