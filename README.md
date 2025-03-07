@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sachin Vishwakarma  
+🔹 **Software Developer | Android & ML Enthusiast**  
+🔹 **Proficient in Java, Kotlin, Python, and ML**  
+🔹 **Passionate about building scalable applications**  
 
-<!--
-**Sachinkrvis/Sachinkrvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 🌱 I’m currently learning **Machine Learning & Cloud Computing**  
+- 💼 Completed an internship in **Android App Development**  
+- 💡 Open to collaborating on **Android, AI, and ML projects**  
+- 📫 Reach me at: [Email](mailto:sachinvisdev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sachin-kumar-vishwakarma)  
+- ⚡ Fun fact: I love solving coding problems on HackerRank!  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+🔹 **Programming Languages**: Java, Kotlin, Python, JavaScript  
+🔹 **Mobile Development**: Android (Kotlin, Java), Flutter  
+🔹 **Machine Learning**: Scikit-Learn, TensorFlow, OpenCV  
+🔹 **Databases**: MySQL, MongoDB, Firebase  
+🔹 **DevOps & Cloud**: AWS, Docker, GitHub Actions  
+🔹 **Version Control**: Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachinkrvis&show_icons=true&theme=tokyonight)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinkrvis&layout=compact&theme=tokyonight)  
+
+## 📈 Activity Tracker  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sachinkrvis&theme=tokyonight)](https://git.io/streak-stats)  
