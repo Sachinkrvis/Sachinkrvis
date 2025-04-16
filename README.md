@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Machine Learning & Cloud Computing**  
 - 💼 Completed an internship in **Android App Development**  
 - 💡 Open to collaborating on **Android, AI, and ML projects**  
-- 📫 Reach me at: [Email](mailto:sachinvisdev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sachin-kumar-vishwakarma)  
+- 📫 Reach me at: [Email](mailto:sachinvisdev@gmail.com) | [LinkedIn](www.linkedin.com/in/sachin-vishwakarma-a051b3227)  
 - ⚡ Fun fact: I love solving coding problems. 
 
 <!--## 🛠️ Tech Stack  
