@@ -8,7 +8,7 @@
 - 💼 Completed an internship in **Android App Development**  
 - 💡 Open to collaborating on **Android, AI, and ML projects**  
 - 📫 Reach me at: [Email](mailto:sachinvisdev@gmail.com) | [LinkedIn](www.linkedin.com/in/sachin-vishwakarma-a051b3227)  
-- ⚡ Fun fact: I love solving coding problems. 
+<!--- - ⚡ Fun fact: I love solving coding problem. -->
 
 <!--## 🛠️ Tech Stack  
 🔹 **Programming Languages**: Java, Kotlin, Python, JavaScript  
